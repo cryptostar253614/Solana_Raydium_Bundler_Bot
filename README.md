@@ -78,5 +78,5 @@ Solana Bundler Bot is an advanced automation tool designed to facilitate token c
 
 ### Clone the Repository
 ```bash
-git clone git@github.com:your-username/Solana_Raydium_Bundler_Bot.git
+git clone https://github.com/cryptostar253614/Solana_Raydium_Bundler_Bot.git
 cd Solana_Raydium_Bundler_Bot
