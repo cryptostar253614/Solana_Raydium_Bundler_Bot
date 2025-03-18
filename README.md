@@ -28,8 +28,6 @@ https://github.com/user-attachments/assets/a50d08e8-7214-40b2-9f15-62268b8b7587
 
 ---
 
----
-
 ### Automated Token Purchase (Sniping)
 - A **backend scheduler** or event monitors Raydium for new token launches.
 - **Sniper Bot** executes buy orders instantly at launch.
