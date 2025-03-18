@@ -18,9 +18,7 @@ Solana Bundler Bot is an advanced automation tool designed to facilitate token c
 
 ---
 
-### Video
-
-https://github.com/user-attachments/assets/1d306829-00de-44f5-8a58-5795ff45d80c
+https://github.com/user-attachments/assets/33573e18-83a1-4629-9310-064582b20ba9
 
 ---
 
