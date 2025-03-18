@@ -16,7 +16,7 @@ Solana Bundler Bot is an advanced automation tool designed to facilitate token c
 - **Revoke Mint & Freeze Authorities**: Automatically removes mint and freeze authorities post-creation or via API call.
 - **Raydium Liquidity Pool Setup**: The bot creates a liquidity pool on **Raydium DEX** and ensures liquidity is added.
 
-- [!Watch the video](https://raw.githubusercontent.com/cryptostar253614/Solana_Raydium_Bundler_Bot/main/1.mp4)
+- [![Watch the video](https://raw.githubusercontent.com/cryptostar253614/Solana_Raydium_Bundler_Bot/main/1.png)](https://raw.githubusercontent.com/cryptostar253614/Solana_Raydium_Bundler_Bot/main/1.mp4)
 
 ---
 
